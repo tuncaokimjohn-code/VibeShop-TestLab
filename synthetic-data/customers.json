@@ -1,0 +1,17 @@
+[
+  {
+    "id": "customer-001",
+    "displayName": "Fixture Shopper One",
+    "role": "customer"
+  },
+  {
+    "id": "customer-002",
+    "displayName": "Fixture Shopper Two",
+    "role": "customer"
+  },
+  {
+    "id": "customer-003",
+    "displayName": "Fixture Catalog Manager",
+    "role": "administrator"
+  }
+]

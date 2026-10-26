@@ -1,0 +1,23 @@
+[
+  {
+    "id": "product-1001",
+    "name": "Cloud Cotton Tote",
+    "description": "A fictional reusable shopping bag.",
+    "priceCents": 35000,
+    "active": true
+  },
+  {
+    "id": "product-1002",
+    "name": "Sunrise Desk Mug",
+    "description": "A fictional ceramic mug.",
+    "priceCents": 42500,
+    "active": true
+  },
+  {
+    "id": "product-1003",
+    "name": "Pocket Grid Notebook",
+    "description": "A fictional notebook for sketches.",
+    "priceCents": 18000,
+    "active": true
+  }
+]

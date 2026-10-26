@@ -1,0 +1,17 @@
+{
+  "name": "vibeshop-testlab",
+  "version": "1.0.0-candidate.1",
+  "private": true,
+  "type": "module",
+  "description": "Source-only fictional shop fixture; no server or deployment entry point.",
+  "scripts": {
+    "validate": "node tests/validate-source.mjs"
+  },
+  "peerDependencies": {
+    "react": "19.3.0"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "@types/react": "19.3.0"
+  }
+}

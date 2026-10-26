@@ -1,0 +1,14 @@
+[
+  {
+    "id": "review-1001",
+    "productId": "product-1001",
+    "authorLabel": "Fixture Shopper One",
+    "body": "A useful fictional everyday tote."
+  },
+  {
+    "id": "review-1002",
+    "productId": "product-1002",
+    "authorLabel": "Fixture Shopper Two",
+    "body": "The fictional mug fits my desk."
+  }
+]

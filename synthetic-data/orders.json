@@ -1,0 +1,26 @@
+[
+  {
+    "id": "order-1001",
+    "customerId": "customer-001",
+    "status": "placed",
+    "lines": [
+      {
+        "productId": "product-1001",
+        "quantity": 2,
+        "unitPriceCents": 35000
+      }
+    ]
+  },
+  {
+    "id": "order-1002",
+    "customerId": "customer-002",
+    "status": "shipped",
+    "lines": [
+      {
+        "productId": "product-1002",
+        "quantity": 1,
+        "unitPriceCents": 42500
+      }
+    ]
+  }
+]
